@@ -4,7 +4,7 @@
 
 Filled only after the TN10 storm of Fri 9 Oct 2026, 20:00 CEST, or of 13 Oct 2026 if that is the date the storm ran.
 
-Source: the Build result section of [tn10-storm-throughput-questions](https://github.com/STP-KAS/tn10-storm-throughput-questions). The text is brought here once that section is written. The bot does not edit this file.
+Source: the Build result section of [tn10-storm-throughput-questions](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions). The text is brought here once that section is written. The bot does not edit this file.
 
 What will be here, each number with its file:
 

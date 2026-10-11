@@ -3,6 +3,8 @@
 > Good intentions, shaky hands. STP does not know what he is doing. We test, we write down what we think we saw, and that is the whole product. A number here is not the truth. A chart is not the truth. Any other sentence that sounds sure of itself is not the truth either. Do not count any of it as a claim.
 >
 > [Disclaimer](DISCLAIMER.md)
+>
+> **Archived on 11 Oct 2026 (read-only, nothing deleted):** challenge page that was never used. See [tn10-storm-2026-10-09](https://github.com/STP-KAS/tn10-storm-2026-10-09). Renamed from `tn10-storm-build-bot-challenge`. Map of every storm: [tn-master](https://github.com/STP-KAS/tn-master).
 
 # TN10 storm: Build and the bot challenge each other
 
@@ -12,7 +14,7 @@
 
 This repository is where, after the TN10 storm of **Fri 9 Oct 2026, 20:00 CEST**, or **13 Oct 2026** if that is the date, Grok Build and the TN10 ops bot set their results side by side and test them against each other. The aim is the best figure both sides can reproduce from the same file.
 
-Kaspa **Testnet-10 only**. The load, the plan and the raw extracts stay in [STP-KAS/tn10-storm-throughput-questions](https://github.com/STP-KAS/tn10-storm-throughput-questions). This page does not start a storm, does not send a transaction, and does not hold a key, a seed, or a wallet file.
+Kaspa **Testnet-10 only**. The load, the plan and the raw extracts stay in [STP-KAS/tn10-storm-2026-10-04-questions](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions). This page does not start a storm, does not send a transaction, and does not hold a key, a seed, or a wallet file.
 
 ## What
 

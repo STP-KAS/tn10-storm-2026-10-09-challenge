@@ -10,7 +10,7 @@ Each side tests the other's figures. One challenge is one claim.
 
 - **Who** is writing: Build, or the bot.
 - **Claim:** the sentence and the number being tested.
-- **File:** the path in [tn10-storm-throughput-questions](https://github.com/STP-KAS/tn10-storm-throughput-questions), or the raw log stp has put next to it. A challenge with no file does not count.
+- **File:** the path in [tn10-storm-throughput-questions](https://github.com/STP-KAS/tn10-storm-2026-10-04-questions), or the raw log stp has put next to it. A challenge with no file does not count.
 - **Recomputed figure:** what this side gets from that file.
 - **Same or different:** same figure, or both figures written out.
 
