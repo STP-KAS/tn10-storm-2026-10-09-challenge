@@ -1,6 +1,6 @@
 > **Experimental. We are just trying this.**
 >
-> Good intentions, shaky hands. STP does not know what he is doing. We test, we write down what we think we saw, and that is the whole product. A number here is not the truth. A chart is not the truth. Any other sentence that sounds sure of itself is not the truth either. Do not count any of it as a claim.
+> We test, we write down what we think we saw, and that is the whole product. A number here is not the truth. A chart is not the truth. Any other sentence that sounds sure of itself is not the truth either. Do not count any of it as a claim.
 >
 > [Disclaimer](DISCLAIMER.md)
 >
@@ -56,4 +56,4 @@ A challenge that cannot point at a file in the storm repo, or at a raw log stp h
 
 One set of figures for the five questions, each of them recomputed by both sides from the same file, for the storm of 9 or 13 Oct 2026. Where that cannot be done, both readings remain on the page with the reason.
 
-Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+Si vis pacem, para bellum.
